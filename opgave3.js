@@ -14,4 +14,4 @@ function getData(dataURI, callback) {
  getData('http://www.domain.com/something', outputData);
  console.log("Denne kode linje burde være den sidste.");
 
- //koden venter ikke på at koden bliver kørt men bliver ved med at kører når tiden er gået tilføjer den reseten
+ //koden venter ikke på at koden bliver kørt men bliver ved med at kører når tiden er gået tilføjer den resten
